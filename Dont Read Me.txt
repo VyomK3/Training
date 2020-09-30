@@ -1,4 +1,0 @@
-Adding a file which shouldn't be read.
-
-## Reasons
-Since the file has been named as `Dont Read Me.txt', it surely implies that is shall not be read by the user and should be left alone as it demands.
